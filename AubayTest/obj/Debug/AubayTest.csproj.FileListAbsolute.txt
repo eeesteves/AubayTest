@@ -1,0 +1,5 @@
+C:\Users\simes\Documents\SharpDevelop Projects\AubayTest\AubayTest\bin\Debug\AubayTest.exe
+C:\Users\simes\Documents\SharpDevelop Projects\AubayTest\AubayTest\bin\Debug\AubayTest.pdb
+C:\Users\simes\Documents\SharpDevelop Projects\AubayTest\AubayTest\obj\Debug\AubayTest.csprojResolveAssemblyReference.cache
+C:\Users\simes\Documents\SharpDevelop Projects\AubayTest\AubayTest\obj\Debug\AubayTest.exe
+C:\Users\simes\Documents\SharpDevelop Projects\AubayTest\AubayTest\obj\Debug\AubayTest.pdb
